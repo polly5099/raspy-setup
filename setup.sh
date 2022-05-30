@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://www.shellhacks.com/raspberry-pi-mount-usb-drive-automatically/
 sudo apt install vim -y
 cd ~
 mkdir setup
